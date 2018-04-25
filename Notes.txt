@@ -1,1 +1,3 @@
 Repository from GitHUB
+
+From Github: Commiting, pull request and masterbranch
